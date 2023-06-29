@@ -1,7 +1,7 @@
 ### Hi! I'm xiaoye 👋
 
 - 🔭 I’m currently working on game company.
-- ⚡ Golang/Python/C/C++.
+- ⚡ Golang/Python/C/C++/C#.
 - 📫 How to reach me: yefulincode@gmail.com
 - 🍻 Shenzhen,China
 
