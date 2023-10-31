@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on game company.
 - ⚡ Golang/Python/C/C++/C#.
 - 📫 How to reach me: yefulincode@gmail.com
-- 🍻 Shenzhen,China
+- 🍻 Guangzhou,China
 
 <!--
 **trainking/trainking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
